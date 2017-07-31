@@ -1,0 +1,122 @@
+[
+  {
+    "id":1,
+    "title":"Pulp Fiction",
+    "year":"1994",
+    "type":"Action",
+    "director":"Quentin Tarantino",
+    "rating":8.9,
+    "img":"1.jpg",
+    "desc":"The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+  },
+  {
+    "id":2,
+    "title":"Suicide Squad",
+    "year":"2016",
+    "type":"Action",
+    "director":"David Ayer",
+    "rating":6.2,
+    "img":"2.jpg",
+    "desc":"A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse."
+  },
+  {
+    "id":3,
+    "title":"Star Wars",
+    "year":"1977",
+    "type":"Sci-Fi",
+    "director":"George Lucas",
+    "rating":8.7,
+    "img":"3.jpg",
+    "desc":"Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader."
+  },
+  {
+    "id":4,
+    "title":"La-la-land",
+    "year":"2016",
+    "type":"Musical",
+    "director":"Damien Chazelle",
+    "rating":8.2,
+    "img":"4.jpg",
+    "desc":"Two proper L.A. dreamers, a suavely charming soft-spoken jazz pianist and a brilliant vivacious playwright, while waiting for their big break, attempt to reconcile aspirations and relationship in a magical old-school romance."
+  },
+  {
+    "id":5,
+    "title":"The Last Samurai",
+    "year":"2003",
+    "type":"Action",
+    "director":" Edward Zwick",
+    "rating":7.7,
+    "img":"5.jpg",
+    "desc":"An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle."
+  },
+  {
+    "id":6,
+    "title":"Man on fire",
+    "year":"2004",
+    "type":"Action",
+    "director":"Tony Scott",
+    "rating":7.7,
+    "img":"6.jpg",
+    "desc":"In Mexico City, a former assassin swears vengeance on those who committed an unspeakable act against the family he was hired to protect."
+  },
+  {
+    "id":7,
+    "title":"No country for old men",
+    "year":"2007",
+    "type":"Drama",
+    "director":"Ethan Coel",
+    "rating":8.1,
+    "img":"7.jpg",
+    "desc":"Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande."
+  },
+  {
+    "id":8,
+    "title":"Tropic Thunder",
+    "year":"2008",
+    "type":"Comedy",
+    "director":"Ben Stiller",
+    "rating":7,
+    "img":"8.jpg",
+    "desc":"Through a series of freak occurrences, a group of actors shooting a big-budget war movie are forced to become the soldiers they are portraying."
+  },
+  {
+    "id":9,
+    "title":"The Pursuit of Happyness",
+    "year":"2006",
+    "type":"Drama",
+    "director":"Gabriele Muccino",
+    "rating":8,
+    "img":"9.jpg",
+    "desc":"A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career."
+  },
+  {
+    "id":10,
+    "title":"Kill Bill",
+    "year":"2005",
+    "type":"Action",
+    "director":"Quentin Tarantino",
+    "rating":4,
+    "img":"10.jpg",
+    "desc":"Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam."
+  },
+  {
+    "id":11,
+    "title":"Dumb and dumber",
+    "year":"2000",
+    "type":"Comedy",
+    "director":"Dennis Quiad",
+    "rating":3,
+    "img":"11.jpg",
+    "desc":"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt."
+  },
+  {
+    "id":12,
+    "title":"Fight Club",
+    "year":"2004",
+    "type":"Action",
+    "director":"David Fincher",
+    "rating":4,
+    "img":"12.jpg",
+    "desc":"Suspendisse vel aliquet massa. Donec tristique sem erat. Mauris ipsum ante, interdum vitae nulla eu, mollis eleifend lectus. Pellentesque eget nibh et velit efficitur suscipit. Maecenas in sapien non ipsum convallis."
+  }
+]
